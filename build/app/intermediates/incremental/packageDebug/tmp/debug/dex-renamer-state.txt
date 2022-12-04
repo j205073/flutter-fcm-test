@@ -1,0 +1,4 @@
+#Sun Dec 04 09:06:08 CST 2022
+base.0=D\:\\git\\flutter-fcm-test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

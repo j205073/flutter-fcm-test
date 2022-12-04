@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git\\flutter-fcm-test\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\07c127983ae9a1662cb4b1998c82904b\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ar\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\a26818c5eb23d7b5d295e105094253e5\\transformed\\jetified-firebase-messaging-23.0.0\\res\\values-ar\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "70",
+                        "endOffsets": "277"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endColumns": "74",
+                        "endOffsets": "364"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\c80a7945d89c3e853cfcdbc4a0da8557\\transformed\\core-1.6.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "369",
+                        "endColumns": "100",
+                        "endOffsets": "465"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git\\flutter-fcm-test\\build\\firebase_messaging\\intermediates\\merged_res\\release\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\07c127983ae9a1662cb4b1998c82904b\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ar\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\a26818c5eb23d7b5d295e105094253e5\\transformed\\jetified-firebase-messaging-23.0.0\\res\\values-ar\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "70",
+                        "endOffsets": "277"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endColumns": "74",
+                        "endOffsets": "364"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\itain\\.gradle\\caches\\transforms-3\\c80a7945d89c3e853cfcdbc4a0da8557\\transformed\\core-1.6.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "369",
+                        "endColumns": "100",
+                        "endOffsets": "465"
+                    }
+                }
+            ]
+        }
+    ]
+}

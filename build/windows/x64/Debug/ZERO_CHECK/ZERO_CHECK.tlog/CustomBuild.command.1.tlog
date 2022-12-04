@@ -1,0 +1,10 @@
+^D:\GIT\FLUTTER-FCM-TEST\BUILD\WINDOWS\CMAKEFILES\378CD1F5FEB57F819CDEBB334A6E6764\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/git/flutter-fcm-test/windows -BD:/git/flutter-fcm-test/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/git/flutter-fcm-test/build/windows/fcmtest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
