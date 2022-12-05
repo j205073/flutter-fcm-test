@@ -23,6 +23,13 @@ method:post
  }
 }
 ```
+Header:
+```
+Authorization:key={YOUR FCM SERVER KEY}
+Content-Type:application/json
+```
+![image](https://user-images.githubusercontent.com/17948436/205566501-779a8d5b-17a3-4f9a-a958-a76d94b75e73.png)
+![image](https://user-images.githubusercontent.com/17948436/205566537-0d05c3ea-42a6-4795-82e3-0085760b9660.png)
 sound file path:\android\app\src\main\res\raw\muster.wav
 
 ```dart
